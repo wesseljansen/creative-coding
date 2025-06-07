@@ -1,19 +1,17 @@
 # 🎨 Creative Coding Experiments
 
-Deze repository bevat experimenten in generatieve kunst, creatieve codering en visuele exploratie met:
+This repository contains experiments in generative art, creative coding, and visual exploration using:
 
-- 🟠 **p5.js** – browsergebaseerde generatieve schetsen (JavaScript)
-- 🔵 **Processing** – desktopschetsen in Java
-- 🐍 **Python** – ASCII-art en visuele scripts
-- 🌀 **Git & GitHub** – versiebeheer, structuur, documentatie
+- 🟠 **p5.js** – browser-based generative sketches (JavaScript)
+- 🔵 **Processing** – desktop sketches in Java
+- 🐍 **Python** – ASCII art and visual scripts
+- 🌀 **Git & GitHub** – version control, structure, documentation
 
-## 🗂 Structuur
+## 🗂 Structure
 
 ```bash
 creative-coding/
-├── p5js-sketches/         # Web sketches met p5.js
-├── processing-sketches/   # Experimentele .pde bestanden
-├── python-experiments/    # Scripts in Python (ascii_art, beeldmanipulatie)
-└── README.md              # Dit bestand
-
----
+├── p5js-sketches/         # Web sketches using p5.js
+├── processing-sketches/   # Experimental .pde sketches
+├── python-experiments/    # Python scripts (e.g. ascii_art, image processing)
+└── README.md              # This file
